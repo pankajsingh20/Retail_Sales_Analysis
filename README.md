@@ -8,7 +8,8 @@ Excel Function use- Count,countif,Countifs,sum,sumif,sumifs,if,ifs,quartile.inc,
 For more information about this project watch my video on youtube : 
 
 Chanel Name:- http://www.youtube.com/@DAProjects-s7v
-video link:- 
+
+Video link:- 
 
 
 Author - Pankaj singh.
